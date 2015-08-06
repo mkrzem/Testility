@@ -1,0 +1,7 @@
+packages/
+Testility/obj/
+Testility.UnitTests/obj/
+Testility.Domain/obj/
+Testility/bin/
+Testility.UnitTests/bin/
+Testility.Domain/bin/
