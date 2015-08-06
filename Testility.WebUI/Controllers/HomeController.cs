@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace Testility.Controllers
+namespace Testility.WebUI.Controllers
 {
     public class HomeController : Controller
     {
